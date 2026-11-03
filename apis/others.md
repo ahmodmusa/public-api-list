@@ -24,4 +24,5 @@ Other useful APIs that don’t fit into specific categories.
 | Random Quote API     | Get motivational and random quotes             | [Visit](https://api.quotable.io/)                  | ❌            |
 | Random Fox API       | Random fox pictures                            | [Visit](https://randomfox.ca/floof/)               | ❌            |
 | Random Image API     | Get random stock images                        | [Visit](https://source.unsplash.com/random)        | ❌            |
+| Bucketlist Dream of the Day | Daily travel and experience inspiration; Dutch/Netherlands defaults and optional filters | [Visit](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | ❌ |
 
